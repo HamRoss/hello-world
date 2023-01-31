@@ -21,3 +21,6 @@ Ok now this branch is really different from main.
 This line is me making an edit locally on my computer. I cloned the hello-world repository in Terminal and opened it on my computer. I'm now making this edit, before I commit the changes and push it back up to GitHub. 
 
 I had a little trouble with the default user/committer, so I'm just going to check to see if I've fixed it now and make a new commit.
+
+Making another edit because there was still an issue with user name and email LOL 
+\
